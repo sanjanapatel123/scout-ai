@@ -1,4 +1,4 @@
-<h2 align="center"><strong>ScoutAI — AI Web Research & Lead Extractor</strong></h2>
+<h1 align="center"><strong>ScoutAI — AI Web Research & Lead Extractor</strong></h2>
 
 <p align="center"> <strong>AI-powered web research, scraping & structured lead extraction platform</strong> </p>
 
